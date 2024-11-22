@@ -13,4 +13,4 @@
 * Entre muchas otras cosas.
 
 
-#####[Repositorio de hyperblog](https://github.com/KiwiKamari/hyperblog)
+[Repositorio de hyperblog](https://github.com/KiwiKamari/hyperblog)
